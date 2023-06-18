@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+body{
+    background-color: black;
+}
+#poster{
+    margin-top: 25%;
+    margin-bottom: 25%;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+#poster-img{
+    border: 5px solid white;
+    width: 100%;
+}
+#poster-tag{
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+    color: white;
+}
+#poster-tagline{
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    font-size: 0.75rem;
+}
